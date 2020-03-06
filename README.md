@@ -6,10 +6,10 @@
 5. Additional Documents
 
 # Project Title
-Hello World
+* Hello World
 
 # Descirption
-A practice sample by learing how to use Github
+* A practice sample by learing how to use Github
 
 # How to Run Program
 
