@@ -3,7 +3,6 @@
 2. Description
 3. How to Run Program
 4. Files Uesd
-5. Additional Documents
 
 # Project Title
 * ***Hello World***
@@ -14,7 +13,6 @@
 # How to Run Program
 - 【】***Hello_World/***
 - 【】***README.md***
-- 【】***pgmname1.R***
 - 【】***filename1.csv***
 - 【】***examples.html***
 
@@ -22,7 +20,6 @@
 - Where to find real data
 - Is that reliable
 - detailed information about data files
-- Link: 【American Housing Survey】(https://catalog.data.gov/dataset/american-housing-survey-ahs)
+- !Link: 【American Housing Survey】!(https://catalog.data.gov/dataset/american-housing-survey-ahs) 【https://images.app.goo.gl/uFQ63pFwxrZUbozy8】
 
-# Additional Documents
-Looks like no additional documents 
+
