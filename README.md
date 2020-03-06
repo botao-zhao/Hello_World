@@ -18,8 +18,7 @@
 
 # Files
 - Where to find real data
-- Is that reliable
+- Is that reliable :EMOJICODE: question
 - detailed information about data files
-- !Link: 【American Housing Survey】!(https://catalog.data.gov/dataset/american-housing-survey-ahs) （https://images.app.goo.gl/uFQ63pFwxrZUbozy8）
-
+- Link: 【American Housing Survey】(https://catalog.data.gov/dataset/american-housing-survey-ahs) （
 
